@@ -23,7 +23,7 @@ __module 0: Introduction__
     * [Emergency management](https://en.wikipedia.org/wiki/Emergency\_management)
   * [Data recovery](https://en.wikipedia.org/wiki/Data\_recovery)
     * [Backup and Restore](https://en.wikipedia.org/wiki/Backup\_and\_Restore)
-  * [DevOps]  (https://en.wikipedia.org/wiki/DevOps)
+  * [DevOps](https://en.wikipedia.org/wiki/DevOps)
   * [Asset](https://en.wikipedia.org/wiki/Asset\_\(computer\_security\))
   * [Vulnerability](https://en.wikipedia.org/wiki/Vulnerability\_\(computing\))
   * [Risk](https://en.wikipedia.org/wiki/Risk)
