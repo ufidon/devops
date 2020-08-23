@@ -33,6 +33,7 @@ In this course, we will create virtual machines with  Ubuntu LTS image and Windo
   * [DevOps Troubleshooting: Linux Server Best Practices](https://www.pearson.com/us/higher-education/program/Rankin-Dev-Ops-Troubleshooting-Linux-Server-Best-Practices/PGM281410.html)
 * __Data Science in Ops__
   * [Data Science for Business](https://www.oreilly.com/library/view/data-science-for/9781449374273/)
+  * [Cracking Python Bootcamp](https://github.com/purcellconsult/Cracking-Python-Bootcamp)
   * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
     * [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
   * [Deep Learning](https://www.deeplearningbook.org/)
