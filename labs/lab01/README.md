@@ -27,8 +27,7 @@ If your host operating system is Windows, then you don't need to install Windows
 * Download [Windows Server](https://www.microsoft.com/en-us/windows-server)
 * Create a Virtual Machine with *2GB memory/200GB disk* in VirtualBox for installing this Windows server
 * Install the Windows Server for a free trial
-* Install Sleuth Kit & Autopsy
-* Install [Bulk extractor](https://github.com/simsong/bulk\_extractor). BEViewer also provides a User Interface for launching bulk_extractor scans, it is packaged with bulk_extractor. 
+
 
 ## References:
 
