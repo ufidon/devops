@@ -22,8 +22,6 @@ sudo apt install p7zip-full build-essential gcc perl cmake automake curl git
 
 ## Install Windows server
 
-If your host operating system is Windows, then you don't need to install Windows server.
-
 * Download [Windows Server](https://www.microsoft.com/en-us/windows-server)
 * Create a Virtual Machine with *2GB memory/200GB disk* in VirtualBox for installing this Windows server
 * Install the Windows Server for a free trial
