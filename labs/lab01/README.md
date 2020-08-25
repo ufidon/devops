@@ -1,3 +1,39 @@
 # its352
 online materials and references
 
+## lab01: Build the environment
+* Create a virtual machine with Ubuntu LTS
+* Setup a virtual machine with Windows server
+
+## Install Ubuntu Mate LTS
+Follow the steps below to setup Ubuntu Mate LTS in a VirtualBox VM:
+
+1. Download [Ubuntu MATE LTS](https://ubuntu-mate.org/) from its official website --- [https://ubuntu-mate.org](https://ubuntu-mate.org). Choose the  64-bit PC version ubuntu-mate LTS.
+2. Create a VM with *2GB memory/200GB disk* in VirtualBox and install the downloaded Ubuntu
+
+
+After installation, *make sure you can access Internet*, update and upgrade Ubuntu, then install the following tools. Open a terminal window, run the following commands:
+
+```bash
+sudo apt update
+sudo apt upgrade
+sudo apt install p7zip-full build-essential gcc perl cmake automake curl git
+```
+
+## Install Windows server
+
+If your host operating system is Windows, then you don't need to install Windows server.
+
+* Download [Windows Server](https://www.microsoft.com/en-us/windows-server)
+* Create a Virtual Machine with *2GB memory/200GB disk* in VirtualBox for installing this Windows server
+* Install the Windows Server for a free trial
+* Install Sleuth Kit & Autopsy
+* Install [Bulk extractor](https://github.com/simsong/bulk\_extractor). BEViewer also provides a User Interface for launching bulk_extractor scans, it is packaged with bulk_extractor. 
+
+## References:
+
+* [Ubuntu Mate](https://ubuntu-mate.org/)
+* [SDKMan](https://sdkman.io/)
+* [How to completely uninstall Java?](https://askubuntu.com/questions/84483/how-to-completely-uninstall-java)
+* [Windows Server](https://www.microsoft.com/en-us/windows-server)
+* [VirtualBox.](https://www.virtualbox.org/)
