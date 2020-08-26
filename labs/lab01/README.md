@@ -6,6 +6,17 @@ online materials and references
 * Setup a virtual machine with Windows server (NOT REQUIRED)
 * *Rule of thumb to choose software: always choose the lastest and STABLE version*
 
+## NAT network and VM settings
+* NAT network settings:
+  * Disable IPv6
+  * Network ID: 10.20.30.0
+* VM settings:
+  * *2GB memory/200GB disk*
+  * Connect to the NAT network
+  * It is a best practice to set VM's IP address statically
+  * Enable network promiscuous mode
+
+
 ## Install Ubuntu Mate LTS
 Follow the steps below to setup Ubuntu Mate LTS in a VirtualBox VM:
 
