@@ -3,7 +3,8 @@ online materials and references
 
 ## lab01: Build the environment
 * Create a virtual machine with Ubuntu LTS
-* Setup a virtual machine with Windows server
+* Setup a virtual machine with Windows server (NOT REQUIRED)
+* *Rule of thumb to choose software: always choose the lastest and STABLE version*
 
 ## Install Ubuntu Mate LTS
 Follow the steps below to setup Ubuntu Mate LTS in a VirtualBox VM:
@@ -21,6 +22,9 @@ sudo apt install p7zip-full build-essential gcc perl cmake automake curl git
 ```
 
 ## Install Windows server
+*NOT REQUIRED*
+
+If you host operating system is Windows, you don't need to install Windows server.
 
 * Download [Windows Server](https://www.microsoft.com/en-us/windows-server)
 * Create a Virtual Machine with *2GB memory/200GB disk* in VirtualBox for installing this Windows server
