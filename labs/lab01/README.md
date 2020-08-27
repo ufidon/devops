@@ -11,7 +11,7 @@ online materials and references
   * Disable IPv6
   * Network ID: 10.20.30.0
 * VM settings:
-  * *2GB memory/200GB disk*
+  * *4GB memory/200GB disk*
   * Connect to the NAT network
   * It is a best practice to set VM's IP address statically
   * Enable network promiscuous mode
@@ -38,9 +38,11 @@ sudo apt install p7zip-full build-essential gcc perl cmake automake curl git
 If you host operating system is Windows, you don't need to install Windows server.
 
 * Download [Windows Server](https://www.microsoft.com/en-us/windows-server)
-* Create a Virtual Machine with *2GB memory/200GB disk* in VirtualBox for installing this Windows server
+* Create a Virtual Machine with *4GB memory/200GB disk* in VirtualBox for installing this Windows server
 * Install the Windows Server for a free trial
 
+## Demo video
+* [Build a digital forensic platform with Ubuntu 20.04](https://youtu.be/vU9Yqfh6PUE)
 
 ## References:
 
