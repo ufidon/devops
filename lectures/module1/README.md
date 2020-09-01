@@ -2,6 +2,9 @@
 online materials and references
 
 ## module 1: Data visualization and correlation
+_A teaser_
+
+* [Logbook](https://en.wikipedia.org/wiki/Logbook)
 
 ### Events and logs
 * _events_
@@ -30,7 +33,6 @@ online materials and references
       * [Operating system service management](https://en.wikipedia.org/wiki/Operating\_system\_service\_management)
       * [Rsyslog](https://en.wikipedia.org/wiki/Rsyslog)
       * [Journaling file system](https://en.wikipedia.org/wiki/Journaling\_file\_system)
-  * [Logbook](https://en.wikipedia.org/wiki/Logbook)
 
   * _Application logs_
     * [Database Transaction log](https://en.wikipedia.org/wiki/Transaction\_log)
