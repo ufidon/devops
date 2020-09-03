@@ -3,11 +3,11 @@ online materials and references
 
 **0. Prerequisites**
 
-Before start this lab, please check the correct Java SDK is installed. If you installed several versions of Java SDK, make sure 11.0.8.fx-librca from Bellsoft is set to the default Java SDK as \#4 below. If you did NOT use sdkman to manage your Java SDK, please uninstall all of them first.
+Before start this lab, please check the correct Java SDK is installed. If you installed several versions of Java SDK, make sure 11.0.8.fx-librca from Bellsoft is set to the default Java SDK as \#4 below. If you did NOT use [sdkman](https://sdkman.io/) to manage your Java SDK, please uninstall all of them first.
 
-If NOT, it can be installed with the following commands:
+If Java SDK NOT installed, it can be installed with the following commands:
 
-A tool named [sdkman](https://sdkman.io/) can manage multiple-version Java JDK. Run the following commands to install *sdkman* first:
+Use sdkman to manage multiple versions of Java JDK. Run the following commands to install *sdkman* first:
 
 ```bash
 # 1. Install sdkman
