@@ -1,6 +1,9 @@
 # its352
 online materials and references
 
+## Youtube channel
+* [Subscribe for automatic notification](https://www.youtube.com/channel/UCjIWgywyl8qMGgxdzTlI63A)
+
 ## Prerequisite
 In this course, we will create virtual machines with  Ubuntu LTS image and Windows Server image, all needed software will be installed  in the virtual machines. To be ready for this course, you need to have
 * _Hardware_
