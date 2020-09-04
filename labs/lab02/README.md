@@ -1,6 +1,8 @@
 # its352
 online materials and references
 
+## Lab02: Install OpenNMS
+
 **0. Prerequisites**
 
 Before start this lab, please check the correct Java SDK is installed. If you installed several versions of Java SDK, make sure 11.0.8.fx-librca from Bellsoft is set to the default Java SDK as \#4 below. If you did NOT use [sdkman](https://sdkman.io/) to manage your Java SDK, please uninstall all of them first.
@@ -65,6 +67,9 @@ Write a report about the process you complete the tasks, key screen snapshots ar
 **5. References**
 * [OpenNMS](https://en.wikipedia.org/wiki/OpenNMS)
   * [Installation Guide](https://docs.opennms.org/opennms/releases/latest/guide-install/guide-install.html)
+  * [Install OpenNMS Network Monitoring in Debian and Ubuntu](https://www.tecmint.com/install-opennms-in-debian-and-ubuntu/)  
+  * [How to Add Hosts in OpenNMS Monitoring Server](https://www.tecmint.com/add-hosts-in-opennms-monitoring/)
+  * [How to add a node to OpenNMS](https://www.techrepublic.com/article/how-to-add-a-node-to-opennms/)
 * [Cacti (software)](https://en.wikipedia.org/wiki/Cacti\_\(software\))
   * [documentation](https://github.com/Cacti/documentation)
 * [Nagios](https://en.wikipedia.org/wiki/Nagios)
