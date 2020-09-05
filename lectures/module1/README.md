@@ -69,10 +69,27 @@ _A teaser_
 ### Data visualization
 * _Data_
   * [Data](https://en.wikipedia.org/wiki/Data)
+  * [Big data](https://en.wikipedia.org/wiki/Big_data)
   * [Information](https://en.wikipedia.org/wiki/Information)
   * [Knowledge](https://en.wikipedia.org/wiki/Knowledge)
   * [Infographic](https://en.wikipedia.org/wiki/Infographic)
     * [List of information graphics software](https://en.wikipedia.org/wiki/List\_of\_information\_graphics\_software)
+* _Dataset_
+  * [Data set](https://en.wikipedia.org/wiki/Data_set)
+  * _Open dataset repositories_
+    * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
+    * [UCI Network Data Repository ](https://networkdata.ics.uci.edu/resources.php)
+    * [the Community Resource for Archiving Wireless Data At Dartmouth](http://crawdad.org/)
+    * [Network Repository. An Interactive Scientific Network Data Repository](http://networkrepository.com/)
+    * [Kaggle](https://www.kaggle.com/)
+    * [An intelligent measurement plane for the Internet](https://www.ict-mplane.eu/public/open-datasets)
+    * [network anomaly dataset](https://github.com/cisco-ie/telemetry)
+    * [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
+    * [Public Datasets for Machine Learning and Data Science](https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
+    * [Canadian Institute for Cybersecurity datasets](https://www.unb.ca/cic/datasets/index.html)
+    * [CAIDA Data](https://www.caida.org/data/overview/)
+    * [the U.S. Government’s open data](https://www.data.gov/)
+    * [World Bank Open Data](https://data.worldbank.org/)
 * _Visualization_
   * _concepts_
     * [Visualization (graphics)](https://en.wikipedia.org/wiki/Visualization\_\(graphics\))
@@ -114,11 +131,13 @@ _A teaser_
     * [Comparison of graphics file formats](https://en.wikipedia.org/wiki/Comparison\_of\_graphics\_file\_formats)
 
 
-### Data correlation
-
+### Data Analysis
+* [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
+* [Data mining](https://en.wikipedia.org/wiki/Data_mining)
 * [Regression analysis](https://en.wikipedia.org/wiki/Regression\_analysis)
   * [Correlation and dependence](https://en.wikipedia.org/wiki/Correlation\_and\_dependence)
   * [Covariance](https://en.wikipedia.org/wiki/Covariance)
 * _Numerical analysis_
   * [Numerical analysis](https://en.wikipedia.org/wiki/Numerical\_analysis)
   * [Comparison of numerical-analysis software](https://en.wikipedia.org/wiki/Comparison\_of\_numerical-analysis\_software)
+* [Statistics](https://en.wikipedia.org/wiki/Statistics)
