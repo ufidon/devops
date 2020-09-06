@@ -25,6 +25,7 @@ sdk list java
 
 # 3. Install the suitable versions from the list
 sdk install java 11.0.8.fx-librca
+export JAVA_HOME="/home/$USER/.sdkman/candidates/java/current"
 
 # 4. If you have several versions of Java SDK, 11.0.8.fx-librca from Bellsoft needs to be set as the default
 sdk default java 11.0.8.fx-librca
