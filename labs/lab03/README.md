@@ -18,13 +18,13 @@ This lab depends on Lab02, in which OpenNMS will be used.
 
 **2. Tasks**
 
-1. Employ OpenNMS
-   1. Add localhost as a node/host to OpenNMS
-   2. Visualize the added node/host --- localhost's activities in OpenNMS
-   3. Visualize the users' activities on the added node/host --- losthost in OpenNMS
-2. Visualize network activity dataset with [Google Chart](https://developers.google.com/chart)
-   1. Download a dataset from [the UNSW-NB15 Datasets](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/)
-   2. Visualize the downloaded dataset with Google Chart and explore information from this dataset
+1. (40%)Employ OpenNMS
+   1. (10%)Add localhost as a node/host to OpenNMS
+   2. (15%)Visualize the added node/host --- localhost's activities in OpenNMS
+   3. (15%)Visualize the users' activities on the added node/host --- losthost in OpenNMS
+2. (60%)Visualize network activity dataset with [Google Chart](https://developers.google.com/chart)
+   1. (10%)Download a dataset from [the UNSW-NB15 Datasets](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/)
+   2. (50%)Visualize the downloaded dataset with Google Chart and explore information from this dataset
 
 **3. Report**
 

@@ -51,12 +51,12 @@ It may involve one or more of the following tasks:
 
 **2. Tasks**
 
-1. Compare three popular, open-source and free system management software.
+1. (30%) Compare three popular, open-source and free system management software.
    1. Overview, functionalities or features, supported platforms
    2. System requirements, prerequisites
    3. Installation difficulties
-2. Install [OpenNMS](https://en.wikipedia.org/wiki/OpenNMS)
-3. Explore the functionalities of OpenNMS.
+2. (60%) Install [OpenNMS](https://en.wikipedia.org/wiki/OpenNMS)
+3. (10%) Explore the functionalities of OpenNMS.
 
 **3. Report**
 

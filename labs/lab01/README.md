@@ -6,7 +6,7 @@ online materials and references
 * Setup a virtual machine with Windows server (NOT REQUIRED)
 * *Rule of thumb to choose software: always choose the lastest and STABLE version*
 
-## NAT network and VM settings
+## (10%) NAT network and VM settings
 * NAT network settings:
   * Disable IPv6
   * Network ID: 10.20.30.0
@@ -21,7 +21,7 @@ online materials and references
 Follow the steps below to setup Ubuntu Mate LTS in a VirtualBox VM:
 
 1. Download [Ubuntu MATE LTS](https://ubuntu-mate.org/) from its official website --- [https://ubuntu-mate.org](https://ubuntu-mate.org). Choose the  64-bit PC version ubuntu-mate LTS.
-2. Create a VM with *2GB memory/200GB disk* in VirtualBox and install the downloaded Ubuntu
+2. (90%) Create a VM with *2GB memory/200GB disk* in VirtualBox and install the downloaded Ubuntu
 
 
 After installation, *make sure you can access Internet*, update and upgrade Ubuntu, then install the following tools. Open a terminal window, run the following commands:
@@ -31,6 +31,7 @@ sudo apt update
 sudo apt upgrade
 sudo apt install p7zip-full build-essential gcc perl cmake automake curl git
 ```
+3. Install VirtualBox Guest Additions in Ubuntu.
 
 ## Install Windows server
 *NOT REQUIRED*
