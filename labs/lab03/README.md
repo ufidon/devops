@@ -34,12 +34,12 @@ This lab depends on Lab02, in which OpenNMS will be used.
       1. List of events. [UNSW-NB15_LIST_EVENTS.csv](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/UNSW-NB15_LIST_EVENTS.csv)
    2. (50%)Visualize the downloaded dataset with Google Chart and explore information from the datasets.
       1. (25%)From the list of events file, choose the top attack subcategory from each attack category, then visualize them with [pie chart](https://developers.google.com/chart/interactive/docs/gallery/piechart) by creating a html file. _There will be 9 sectors_
-      2. (25%)From the list of events file, visualize all attacks with [bar chart](https://developers.google.com/chart/interactive/docs/gallery/barchart), first group by attack category, *there will 9 groups of bars*, within each group, then combine identical attack subcategory, draw a bar for each attack subcategory.
+      2. (25%)From the list of events file, visualize all attacks with [bar chart](https://developers.google.com/chart/interactive/docs/gallery/barchart) by creating a html file, first group by attack category, *there will 9 groups of bars*, within each group, then combine identical attack subcategory, draw a bar for each attack subcategory.
 
 **3. Report**
 
 Write a report about the process you complete the tasks, key screen snapshots are needed as evidences.
-
+*The two html files created in Task 2.2 must be appended in the report*
 
 
 **4. References**
