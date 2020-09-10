@@ -20,20 +20,29 @@ This lab depends on Lab02, in which OpenNMS will be used.
 
 1. (40%)Employ OpenNMS
    1. (10%)Add localhost as a node/host to OpenNMS
-   2. (15%)Visualize the added node/host --- localhost's activities in OpenNMS
-   3. (15%)Visualize the users' activities on the added node/host --- losthost in OpenNMS
+      1. Follow the instructions here [How to Add Hosts in OpenNMS Monitoring Server](https://www.tecmint.com/add-hosts-in-opennms-monitoring/)
+   2. (15%, each 5%)Screen-capture the following three charts in OpenNMS.
+      1. Node availability timeline in last 24 hours. (From the main nav bar: Info->nodes)
+      2. Status overview. (On the home page)
+      3. Trend. (From the main nav bar: Status->Trend)
+   3. (15%, each 5%)Screen-capture the following three charts in OpenNMS.(From the main nav bar: Report -> Charts)
+      1. Alarms, severity chart
+      2. Last 7 Days Outages, outages chart
+      3. Node inventory
 2. (60%)Visualize network activity dataset with [Google Chart](https://developers.google.com/chart)
-   1. (10%)Download a dataset from [the UNSW-NB15 Datasets](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/)
-   2. (50%)Visualize the downloaded dataset with Google Chart and explore information from this dataset
+   1. (10%)Download the following files from [the UNSW-NB15 Datasets](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/)
+      1. List of events. [UNSW-NB15_LIST_EVENTS.csv](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/UNSW-NB15_LIST_EVENTS.csv)
+   2. (50%)Visualize the downloaded dataset with Google Chart and explore information from the datasets.
+      1. (25%)From the list of events file, choose the top attack subcategory from each attack category, then visualize them with [pie chart](https://developers.google.com/chart/interactive/docs/gallery/piechart) by creating a html file. _There will be 9 sectors_
+      2. (25%)From the list of events file, visualize all attacks with [bar chart](https://developers.google.com/chart/interactive/docs/gallery/barchart), first group by attack category, *there will 9 groups of bars*, within each group, then combine identical attack subcategory, draw a bar for each attack subcategory.
 
 **3. Report**
 
 Write a report about the process you complete the tasks, key screen snapshots are needed as evidences.
 
-**4. Demo video**
 
 
-**5. References**
+**4. References**
 * [Google Chart](https://developers.google.com/chart)
 * [OpenNMS](https://en.wikipedia.org/wiki/OpenNMS)
   * [Installation Guide](https://docs.opennms.org/opennms/releases/latest/guide-install/guide-install.html)

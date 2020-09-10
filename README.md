@@ -39,6 +39,7 @@ In this course, we will create virtual machines with  Ubuntu LTS image and Windo
   * [DevOps Troubleshooting: Linux Server Best Practices](https://www.pearson.com/us/higher-education/program/Rankin-Dev-Ops-Troubleshooting-Linux-Server-Best-Practices/PGM281410.html)
 * __Data Science in Ops__
   * [Data Science for Business](https://www.oreilly.com/library/view/data-science-for/9781449374273/)
+  * [Data Mining](https://www.cs.waikato.ac.nz/ml/weka/book.html)
   * [Cracking Python Bootcamp](https://github.com/purcellconsult/Cracking-Python-Bootcamp)
   * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
     * [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
@@ -68,4 +69,5 @@ In this course, we will create virtual machines with  Ubuntu LTS image and Windo
 * [Four tools for File Carving in forensic analysi](https://www.andreafortuna.org/cybersecurity/four-tools-for-file-carving-in-forensic-analysis/)
 * [Digital forensic images](https://digitalcorpora.org/corpora/disk-images)
 * [bulk_extractor](https://github.com/simsong/bulk_extractor)
+* [Weka: The workbench for machine learning](https://www.cs.waikato.ac.nz/ml/weka/index.html)
 
