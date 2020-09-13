@@ -8,7 +8,7 @@
     <text x="150" y="15" fill="red" writing-mode="lr">Bar chart of attack categories</text>
 
     <!-- How to determine the height and location of each bar?
-      1. barheight = 380 * (# of attacks of this bar/maximum # of attcks of all bars)
+      1. barheight = 380 * [math.log(# of attacks of this bar)/math.log(maximum # of attcks of all bars)], here math.log is the natural log.
       2. arrange bar x coordinate from left to right
       3. bar y coordinate = 380 - barheight
       4. all number must be rounded to the closest integer
