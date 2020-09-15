@@ -58,6 +58,31 @@ It may involve one or more of the following tasks:
 2. (60%) Install [OpenNMS](https://en.wikipedia.org/wiki/OpenNMS)
 3. (10%) Explore the functionalities of OpenNMS.
 
+*How to change Postgre users' passwords*
+```bash
+# 0. enter Postgres as postgres
+$ sudo su -c "psql" postgres
+
+# successful log output on Ubuntu 20.04
+psql (12.4 (Ubuntu 12.4-0ubuntu0.20.04.1))
+Type "help" for help.
+
+postgres=# 
+
+# using psql command: \password user_name
+# 1. change the default postgres user's password
+postgres=# \password postgres
+Enter new password: 
+Enter it again: 
+postgres=# 
+
+# 2. change other users' passwords
+postgres-# \password opennms
+Enter new password: 
+Enter it again: 
+postgres-#
+```
+
 **3. Report**
 
 Write a report about the process you complete the tasks, key screen snapshots are needed as evidences.
@@ -79,3 +104,6 @@ Write a report about the process you complete the tasks, key screen snapshots ar
 * [Icinga](https://en.wikipedia.org/wiki/Icinga)
   * [documentation](https://icinga.com/docs/)
 * [Zabbix](https://en.wikipedia.org/wiki/Zabbix)
+* [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
+  * [PostgreSQL Administration](https://www.postgresqltutorial.com/postgresql-administration/)
+  * [Change a Password for PostgreSQL on Linux via Command Line](https://www.liquidweb.com/kb/change-a-password-for-postgresql-on-linux-via-command-line/)
