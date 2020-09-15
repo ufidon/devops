@@ -34,7 +34,7 @@ This lab depends on Lab02, in which OpenNMS will be used.
       1. List of events. [UNSW-NB15_LIST_EVENTS.csv](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/UNSW-NB15_LIST_EVENTS.csv)
    2. (50%)Visualize the downloaded dataset with Google Chart and explore information from the datasets.
       1. (25%)From the list of events file, choose the top attack subcategory from each attack category, then visualize them with [pie chart](https://developers.google.com/chart/interactive/docs/gallery/piechart) by creating a html file. _There will be 9 sectors_
-      2. (25%)From the list of events file, visualize all attacks with [bar chart](https://developers.google.com/chart/interactive/docs/gallery/barchart) by creating a html file, first group by attack category, *there will be 9 groups of bars*, within each group, then combine identical attack subcategory, draw a bar for each attack subcategory.
+      2. (25%)From the list of events file, visualize all attacks with [bar chart](https://developers.google.com/chart/interactive/docs/gallery/barchart) by creating a html file, first group by attack category, *there will be 9 groups of bars*, within each group, then combine identical attack subcategory, draw a bar for each attack subcategory. *If google bar chart does not support variant group size, please adapt the [reference code](./code/barchart.htm) to draw manually, since the difference between the maximum number of attacks are too bigger than smaller number of attacks, so for proper visualization, log scale of number of attacks must be used. ,e.g., use natural log,  math.log(# of attacks) instead of (# of attacks) itself.*
 
 **3. Report**
 
