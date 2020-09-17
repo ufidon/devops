@@ -9,7 +9,7 @@ online materials and references
 
 **1. Objectives**
 
-* Learn how to do various tasks data mining and machine learning using Orange.
+* Learning how to do various tasks of data mining and machine learning using Orange.
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
 **2. Tasks**
