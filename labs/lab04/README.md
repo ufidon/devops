@@ -14,30 +14,30 @@ online materials and references
 
 **2. Tasks**
 
-* *These tasks are basically following the [Orange tutorial on  Youtube](https://www.youtube.com/watch?v=HXjnDIgGDuI&list=PLmNPvQr9Tf-ZSDLwOzxpvY-HrE0yv-8Fy)*
+* *These tasks are basically following the FIRST 10 tutorials of the [20 Getting Started with Orange tutorials on Youtube](https://www.youtube.com/watch?v=HXjnDIgGDuI&list=PLmNPvQr9Tf-ZSDLwOzxpvY-HrE0yv-8Fy)*
 * *Each task 10%*
 
-1. Configure Orange, download and install addons.
+1. Configure Orange, download and install addons. (Getting Started with Orange 01: Welcome to Orange)
    1. Example 1.1: File(Iris dataset) -> (datatable | scatter plot)
-2. Data workflows
+2. Data workflows. (Getting Started with Orange 02: Data Workflows)
    1. Example 2.1: File(Iris dataset) -> (datatable | distributions | (scatter plot -> datatable ))
-3. Widgets and channels
+3. Widgets and channels. (Getting Started with Orange 03: Widgets and Channels)
    1. Example 3.1: File(Iris dataset) -> (data table | scatter plot | box plot)
    2. Example 3.2: File(Iris dataset) -> (data table -> | scatter plot) | box plot))
-4. Loading your data
+4. Loading your data. (Getting Started with Orange 04: Loading Your Data)
    1. Example 4.1: File(Google sheet) -> (datatable | (select column ->(save data | datatable) ))
-5. Hierarchical clustering
+5. Hierarchical clustering. (Getting Started With Orange 05: Hierarchical Clustering)
    1. Example 5.1: File(Iris dataset) -> (Distance -> Hierarchical clustering -> datatable | scatter plot )
-6. Making predictions
+6. Making predictions. (Getting Started with Orange 06: Making Predictions)
    1. Example 6.1: File(Food) -> (datatable | classification tree -> classification tree viewer )
-7. Model evaluation and scoring
+7. Model evaluation and scoring. (Getting Started with Orange 07: Model Evaluation and Scoring)
    1. Example 7.1: File(Iris) -> (datatable | test and score)
-8. Addons (Orange-Bioinformatics)
+8. Addons (Orange-Bioinformatics). (Getting Started with Orange 08: Add-ons)
    1. Example 8.1: Geo dataset(Cigarette smoking effect on ...) -> datatable | MDS
-9.  Principle component analysis
+9.  Principle component analysis. (Getting Started with Orange 09: Principal Component Analysis)
     1. Example 9.1: Paint data -> PCA -> datatable
     2. Example 9.2: File(wine) -> PCA -> (datatable | scatter plot)
-10. Feature scoring and ranking
+10. Feature scoring and ranking. (Getting Started with Orange 10: Feature Scoring and Ranking)
     1.  Example 10.1: File(wine) -> rank -> box plot | distribution
 
 
