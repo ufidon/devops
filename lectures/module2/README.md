@@ -62,6 +62,7 @@ __module 2: Time series and their anomaly detection__
 * [deep-learning-book](https://github.com/zsdonghao/deep-learning-book)
 * [Orange (software)](https://en.wikipedia.org/wiki/Orange_(software))
   * [orange](https://orange.biolab.si/)
+  * [Orange Data Mining Library](https://orange-data-mining-library.readthedocs.io/en/latest/index.html)
 * [scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn)
   * [scikit-learn](https://scikit-learn.org/stable/)
 * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
