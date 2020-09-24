@@ -25,6 +25,7 @@ online materials and references
    3. Datasets: generated with paint widget
 3. Getting Started with Orange 13: silhouette
    1. [Silhouette (clustering)](https://en.wikipedia.org/wiki/Silhouette_(clustering))
+   2. Datasets: generated with paint widget, iris
 4. Getting Started with Orange 14: Image analytics - Clustering
    1. [Image Analytics: Clustering](https://orange.biolab.si/blog/2017/04/03/image-analytics-clustering/)
    2. [Data Science Made Easy: Image Analytics using Orange](https://towardsdatascience.com/data-science-made-easy-image-analytics-using-orange-ad4af375ca7a)
@@ -49,7 +50,7 @@ online materials and references
     1.  [Import Documents](https://orange3-text.readthedocs.io/en/latest/widgets/importdocuments.html)
     2.  [Orange3-Textable Documentation](https://readthedocs.org/projects/orange3-textable/downloads/pdf/latest/)
     3.  [orange3-textable](https://github.com/axanthos/orange3-textable)
-    4.  Datasets: Kennedy's speeches
+    4.  Datasets: [Kennedy's speeches](https://www.jfklibrary.org/asset-viewer/archives/JFKPOF), you need to download and organize by youself.
 10. Getting Started with Orange 15: Multivariate projection - Freeviz
     1.  [Projection (projection)](https://orange-data-mining-library.readthedocs.io/en/latest/reference/projection.html)
     2.  Datasets: iris and zoo
