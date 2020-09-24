@@ -28,6 +28,7 @@ __module 2: Time series and their anomaly detection__
   * [scikit-learn](https://scikit-learn.org/stable/)
   * [weka](https://waikato.github.io/weka-wiki/)
   * [tensorflow](https://www.tensorflow.org/)
+  * [Machine Learning A-Z: Download Practice Datasets](https://www.superdatascience.com/pages/machine-learning)
 
 ## Time series
 * _concepts_
