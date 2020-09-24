@@ -49,8 +49,10 @@ online materials and references
     1.  [Import Documents](https://orange3-text.readthedocs.io/en/latest/widgets/importdocuments.html)
     2.  [Orange3-Textable Documentation](https://readthedocs.org/projects/orange3-textable/downloads/pdf/latest/)
     3.  [orange3-textable](https://github.com/axanthos/orange3-textable)
+    4.  Datasets: Kennedy's speeches
 10. Getting Started with Orange 15: Multivariate projection - Freeviz
     1.  [Projection (projection)](https://orange-data-mining-library.readthedocs.io/en/latest/reference/projection.html)
+    2.  Datasets: iris and zoo
 
 
 **3. Report**
