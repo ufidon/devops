@@ -18,19 +18,23 @@ online materials and references
 1. (10%)Find, download a dataset of spam ham emails for machine learning
 2. (15%)Preprocess the datasets so it can be used in Orange
 3. (65%, each 5%)Classify the emails into spams and hams using the following classifiers, and compare their performance with at least three model evaluation metrics such as CA(classification accuracy), precision, recall, F1(F-score or F-measure), etc.
-   1. Logistic Regression
-   2. Random Forest
-   3. Simple Random Forest
-   4. Softmax Regression
-   5. k-Nearest Neighbors
-   6. Naive Bayes
-   7. Support Vector Machines
-   8. Linear Support Vector Machines
-   9. Nu-Support Vector Machines
-   10. Classification Tree
-   11. Simple Tree
-   12. Majority Classifier
-   13. Neural Network
+   1. (8%)Logistic Regression
+       1. [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
+   2. (7%)Random Forest
+       1. [Random forest](https://en.wikipedia.org/wiki/Random_forest)
+   3. (7%)Softmax Regression
+       1. [Softmax function](https://en.wikipedia.org/wiki/Softmax_function)
+   4. (7%)k-Nearest Neighbors
+       1. [k-nearest neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+   5. (7%)Naive Bayes
+       1. [Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+   6. (7%)Support Vector Machines
+       1. [Support vector machine](https://en.wikipedia.org/wiki/Support_vector_machine)
+   7.  (7%)Classification Tree
+       1.  [Decision tree learning](https://en.wikipedia.org/wiki/Decision_tree_learning)
+   8.  (7%)Majority Classifier
+   9.  (8%)Neural Network
+       1.  [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network)
 4.  (10%)Draw your conclusion on the classification.
 
 
