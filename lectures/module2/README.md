@@ -43,6 +43,16 @@ __module 2: Time series and their anomaly detection__
   * [Stochastic](https://en.wikipedia.org/wiki/Stochastic)
     * [Stochastic process](https://en.wikipedia.org/wiki/Stochastic_process)
   * [Spatial analysis](https://en.wikipedia.org/wiki/Spatial_analysis)
+* _tools_
+  * [orange3-timeseries](https://github.com/biolab/orange3-timeseries)
+    * [html doc](http://orange.biolab.si/widget-catalog/time-series/as_timeseries/)
+    * [pdf doc](https://readthedocs.org/projects/orange3-timeseries/downloads/pdf/latest/)
+    * [readthedocs](https://orange3-timeseries.readthedocs.io/en/latest/)
+  * [Orange3 spectral](https://github.com/Quasars/orange-spectroscopy)
+    * [doc](https://orange-spectroscopy.readthedocs.io/en/latest/)
+    * [workshop](https://orange.biolab.si/blog/2018/03/28/orange-with-spectroscopy-add-on-workshop/)
+    * [spectral videos](https://www.youtube.com/watch?v=D4RBey-b2VA&list=PLmNPvQr9Tf-bPWjDJvJBPZJ6us_KTAD5T)
+    * [covid-19 videos](https://www.youtube.com/watch?v=EfsqjFJC434&list=PLmNPvQr9Tf-aJqg2gOSANOVCwTWakpRI5)
 * _datasets_
   * [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 
@@ -55,6 +65,7 @@ __module 2: Time series and their anomaly detection__
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
   * [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Data Science for Business](https://www.oreilly.com/library/view/data-science-for/9781449374273/)
+* [Machine Learning](https://www.superdatascience.com/pages/machine-learning)
 * [Data Mining](https://www.cs.waikato.ac.nz/ml/weka/book.html)
   * [Weka](https://en.wikipedia.org/wiki/Weka_(machine_learning))
   * [WEKA: The workbench for machine learning](https://www.cs.waikato.ac.nz/ml/weka/)

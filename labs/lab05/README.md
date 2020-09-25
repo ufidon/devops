@@ -1,7 +1,7 @@
 # its352
 online materials and references
 
-## Lab04: Data mining and machine learning with Orange (Part 2)
+## Lab05: Data mining and machine learning with Orange (Part 2)
 **0. Prerequisites**
 
 * You may install [Orange](https://orange.biolab.si/) on any one of Windows/Mac OS/Linux with which you feel convenient and comfortable.
