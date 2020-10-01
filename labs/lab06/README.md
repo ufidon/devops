@@ -15,27 +15,25 @@ online materials and references
 
 **2. Tasks**
 
-1. (10%)Find, download a dataset of spam ham emails for machine learning
-2. (15%)Preprocess the datasets so it can be used in Orange
-3. (64%, each 8%)Classify the emails into spams and hams using the following classifiers, and compare their performance with at least three model evaluation metrics such as CA(classification accuracy), precision, recall, F1(F-score or F-measure), etc.
+1. (10%)Find, download a dataset of spam ham emails for machine learning. *The number of emails for each type MUST be no less than 100, the more the better, OTHERWISE you will have very high training scores but rather low prediction scores.*
+2. (10%)Preprocess the datasets so it can be used in Orange
+3. (70%, each 10%)Classify the emails into spams and hams using the following classifiers, and compare their performance with at least three model evaluation metrics such as CA(classification accuracy), precision, recall, F1(F-score or F-measure), etc.
    1. Logistic Regression
        1. [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
    2. Random Forest
        1. [Random forest](https://en.wikipedia.org/wiki/Random_forest)
-   3. Softmax Regression
-       1. [Softmax function](https://en.wikipedia.org/wiki/Softmax_function)
-   4. k-Nearest Neighbors
+   3. k-Nearest Neighbors(kNN)
        1. [k-nearest neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
-   5. Naive Bayes
+   4. Naive Bayes
        1. [Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
-   6. Support Vector Machines
+   5. Support Vector Machines(SVM)
        1. [Support vector machine](https://en.wikipedia.org/wiki/Support_vector_machine)
-   7.  Classification Tree
+   6.  Classification Tree(Tree)
        1.  [Decision tree learning](https://en.wikipedia.org/wiki/Decision_tree_learning)
-   8.  Majority Classifier
-   9.  Neural Network
+   7.  Neural Network
        1.  [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network)
-4.  (11%)Draw your conclusion on the classification.
+4.  (10%)Draw your conclusion on the classification.
+5.  *There are 10 extra credits for the highest prediction score.*
 
 
 **3. Report**
@@ -43,8 +41,10 @@ online materials and references
 Write a report about the process you complete the tasks, 
 * key screen snapshots are needed as evidences.
 
+**4. Demo video**
+* [Identifying Spam Emails with Orange](https://youtu.be/uE0a1ceRcMU)
 
-**4. References**
+**5. References**
 
 * _Orange_
   * [Orange](https://orange.biolab.si/)
@@ -75,3 +75,5 @@ Write a report about the process you complete the tasks,
     * [UNSW-NB15: a comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set)](https://ieeexplore.ieee.org/document/7348942)
     * [2009 M57-Patents Scenario](https://digitalcorpora.org/corpora/scenarios/m57-patents-scenario)
     * [Publicly available PCAP files](https://www.netresec.com/index.ashx?page=PcapFiles)
+* _tips_
+  * [How to batch rename multiple files on Windows?](https://www.windowscentral.com/how-rename-multiple-files-bulk-windows-10)
