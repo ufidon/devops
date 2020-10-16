@@ -44,6 +44,7 @@ __module 3: Incident(Disaster) recovery and management__
               * [SYSLINUX](https://en.wikipedia.org/wiki/SYSLINUX)
             * [Windows startup process](https://en.wikipedia.org/wiki/Windows_startup_process)
           * [Bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping)
+        * [5 best software to create multiboot USB drives](https://windowsreport.com/multiboot-usb-drive-software/)
       * [File carving](https://en.wikipedia.org/wiki/File_carving)
     * _System restore_
       * [Reboot to restore software](https://en.wikipedia.org/wiki/Reboot_to_restore_software)
