@@ -17,7 +17,7 @@ Popular operating systems such as Ubuntu and Windows can be recovered with many 
 | You want to reinstall your previous operating system. | Go back to your previous-version operating system |
 | Your PC isn't working well and you recently installed an app. | Restore from a system restore point |
 
-Click one of the recovery options below and follow the steps to try to get things working again.
+
 
 **2. Task**
 
