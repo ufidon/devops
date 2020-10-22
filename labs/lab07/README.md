@@ -49,7 +49,7 @@ Write a report about the process you complete the tasks,
 * key screen snapshots are needed as evidences.
 
 **5. Demo video**
-
+* [Windows recovery](https://youtu.be/QFJiUPyBk84)
 
 **6. References**
 * _Ubuntu_
