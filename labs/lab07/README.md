@@ -36,7 +36,7 @@ Choose **only one set** out of the following two sets:
      1. Create a restore point A
      2. Install a software B
      3. Restore the system to the restore point A, check the software B is gone
-  3. (40%) Create a boot to restore Windows following [Reboot Restore Rx](https://en.wikipedia.org/wiki/Reboot_Restore_Rx)
+  3. (40%) Create a boot to restore Windows following [How to Easily Reset a Computer Back to a Clean State Each Time It Boots](https://www.howtogeek.com/166205/how-to-easily-reset-a-computer-back-to-a-clean-state-each-time-it-boots/)
 
 **3. (10%) Review questions**
 * Describe the pros and cons of the six recovery options in the table above.
@@ -89,5 +89,7 @@ Write a report about the process you complete the tasks,
 * [Reboot to restore software](https://en.wikipedia.org/wiki/Reboot_to_restore_software)
   * [4 Free Tools to Quickly Restore Windows on Reboot](https://www.raymond.cc/blog/reboot-windows-and-automatically-restore-to-its-original-state/)
   * [Reboot Restore Rx](https://en.wikipedia.org/wiki/Reboot_Restore_Rx)
+    * [How to Easily Reset a Computer Back to a Clean State Each Time It Boots](https://www.howtogeek.com/166205/how-to-easily-reset-a-computer-back-to-a-clean-state-each-time-it-boots/)
+    * [How to uninstall Reboot Restore Rx?](http://www.uninstallhelps.com/how-to-uninstall-reboot-restore-rx-by-www-horizon-datasys-com1.html)
   * [Deep Freeze](https://en.wikipedia.org/wiki/Deep_Freeze_(software))
 * [VirtualBox](https://www.virtualbox.org/)
