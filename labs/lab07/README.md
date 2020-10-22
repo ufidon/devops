@@ -29,24 +29,29 @@ Choose **only one set** out of the following two sets:
      1. Create a restore point A
      2. Install a software B
      3. Restore the system to the restore point A, check the software B is gone
-  3. (50%) Create a boot to restore Linux following [How to Run Any Linux Distribution Directly from Hard Disk in Ubuntu Using Grub Menu](https://www.tecmint.com/run-linux-live-images-from-hard-disk-in-linux/)
+  3. (40%) Create a boot to restore Linux following [How to Run Any Linux Distribution Directly from Hard Disk in Ubuntu Using Grub Menu](https://www.tecmint.com/run-linux-live-images-from-hard-disk-in-linux/)
 * _Windows set_
   1. (20%) Create a virtual machine in VirtualBox , then install Windows 10 or Windows server in this VM.
   2. (30%) [Choose Restore from a system restore point from Recovery options in Windows 10](https://support.microsoft.com/en-us/help/12415/windows-10-recovery-options)
      1. Create a restore point A
      2. Install a software B
      3. Restore the system to the restore point A, check the software B is gone
-  3. (50%) Create a boot to restore Windows following [Reboot Restore Rx](https://en.wikipedia.org/wiki/Reboot_Restore_Rx)
+  3. (40%) Create a boot to restore Windows following [Reboot Restore Rx](https://en.wikipedia.org/wiki/Reboot_Restore_Rx)
 
-**3. Report**
+**3. (10%) Review questions**
+* Describe the pros and cons of the six recovery options in the table above.
+* From the table above, choose two recovery options for your personal computer disaster recovery and planning, then state the reason why  you choose these two options.
+* What is your plan using those two recovery options?
+
+**4. Report**
 
 Write a report about the process you complete the tasks, 
 * key screen snapshots are needed as evidences.
 
-**4. Demo video**
+**5. Demo video**
 
 
-**5. References**
+**6. References**
 * _Ubuntu_
   * [Backup Your System](https://help.ubuntu.com/community/BackupYourSystem)
   * [Recovery Mode](https://wiki.ubuntu.com/RecoveryMode)
