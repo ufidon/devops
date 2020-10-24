@@ -12,6 +12,7 @@ As an IT professional, protecting company data is one core responsibility:
 
 There are many data backup and restore software as those listed on Wikipedia:
 * [List of backup software](https://en.wikipedia.org/wiki/List_of_backup_software)
+
 Before choosing a backup software, comparison on candidates is usually needed as this:
 * [Comparison of backup software](https://en.wikipedia.org/wiki/Comparison_of_backup_software)
 
@@ -19,6 +20,7 @@ In this lab, compare the following three open-source data backup software,
 * [Dar](https://en.wikipedia.org/wiki/Dar_(disk_archiver))
 * [Duplicati](https://en.wikipedia.org/wiki/Duplicati)
 * [Bacula](https://en.wikipedia.org/wiki/Bacula)
+
 draw your conclusion and choose one for your personal data backup.
 
 **2. Task**
