@@ -31,7 +31,7 @@ draw your conclusion and choose one for your personal data backup.
    2. subfolder "Image", in side which put 2 image files
    3. subfolder "Programs", in side which put 2 executable files
 3. (25%) Backup MyData to Google drive
-4. (25%) Delete the local MyData, then recover it from Google drive
+4. (25%) Delete some files from the local MyData, then recover them from Google drive
 
 **3. (30%) Review questions**
 * (12%) Describe the pros and cons of the three backup software: Dar, Duplicati and Bacula.
@@ -61,6 +61,8 @@ Write a report about the process you complete the tasks,
   * [dar's features](http://dar.linux.free.fr/doc/Features.html)
 * [Duplicati](https://en.wikipedia.org/wiki/Duplicati)
   * [duplicati](https://www.duplicati.com/)
+  * [How to install and use the Duplicati cloud backup solution](https://www.techrepublic.com/article/how-to-install-and-use-the-duplicati-cloud-backup-solution/)
+  * [Use Duplicati to Backup Debian, Ubuntu, Linux Mint Desktop & Server](https://www.linuxbabe.com/backup/duplicati-debian-ubuntu-linux-mint-desktop-server)
 * [Bacula](https://en.wikipedia.org/wiki/Bacula)
   * [bacula](https://www.bacula.org/)
   * [manual](https://www.bacula.org/documentation/documentation/)
