@@ -49,6 +49,10 @@ Write a report about the process you complete the tasks,
 **5. Demo video**
 * [File Archiver And Task Schedule](https://youtu.be/cf1dqN3jIgE)
 
+There is a mistake for calculating space saving during 13:50-16:00.
+Space saving = 1 - compressed size / uncompressed size.
+The name space saving is a little bit misleading, space saving ratio will be more appropriate.
+
 **6. References**
 * [File archiver](https://en.wikipedia.org/wiki/File_archiver)
   * [Comparison of file archivers](https://en.wikipedia.org/wiki/Comparison_of_file_archivers)
