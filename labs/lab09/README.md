@@ -5,14 +5,14 @@ online materials and references
 
 **1. Description**
 
-Backup software employ file archivers or compressors under their hoods. In this lab, we are going to investigate a typical file archiver [7-zip](https://www.7-zip.org/) and a typical software packer [upx](https://upx.github.io/) (executable file archivers).
+Backup software employ file archivers or compressors under their hoods. In this lab, we are going to investigate a typical file archiver [7-zip](https://www.7-zip.org/) and a typical software packer [upx](https://upx.github.io/) (executable file archivers, optional).
 
 **2. Task**
 
 *Task 1: Benchmark 7z*
 
 1. (2%) Download the latest [MikeOs](http://mikeos.sourceforge.net/) or [KolibriOs](https://kolibrios.org/) or [MenuetOS](http://menuetos.net/) released in zip file, then extracted it into a folder F.
-2. (18%) Use 7-Zip GUI or command line to apply all possible compression methods (compression algorithms) on to the folder F above, in archive format 7z and zip separately. Draw a table to compare all compressions Use the highest compression level for each. Keep all other options as default. You table should contain 9 possibilities (2% for each):
+2. (18%) Use 7-Zip GUI or command line to apply all possible compression methods (compression algorithms) on to the folder F above, in archive format 7z and zip separately. Draw a table to compare all compressions. Use the highest compression level for each. Keep all other options as default. You table should contain 9 possibilities (2% for each):
    1. For 7z, the applicable compression methods include: LZMA, LZMA2, PPMd, BZip2
    2. For zip, the applicable compression methods include: Deflate, Defalate64, LZMA, PPMd, BZip2
 
@@ -47,7 +47,7 @@ Write a report about the process you complete the tasks,
 * key screen snapshots are needed as evidences.
 
 **5. Demo video**
-
+* [File Archiver And Task Schedule](https://youtu.be/cf1dqN3jIgE)
 
 **6. References**
 * [File archiver](https://en.wikipedia.org/wiki/File_archiver)
@@ -55,6 +55,8 @@ Write a report about the process you complete the tasks,
     * [Self-extracting archive](https://en.wikipedia.org/wiki/Self-extracting_archive)
     * [7-zip](https://www.7-zip.org/)
       * [documentation](https://documentation.help/7-Zip/)
+      * [7 Zip Command Line Examples](https://www.dotnetperls.com/7-zip-examples)
+      * [Windows command-line: create a file with the current date in its name](https://superuser.com/questions/47885/windows-command-line-create-a-file-with-the-current-date-in-its-name)
   * [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression)
   * [Data compression ratio](https://en.wikipedia.org/wiki/Data_compression_ratio)
 * [Executable compression](https://en.wikipedia.org/wiki/Executable_compression)
