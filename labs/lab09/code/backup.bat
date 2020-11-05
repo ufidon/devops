@@ -1,4 +1,4 @@
-set BCKDIR="C:\Users\Administrator\Documents\lab09\backup"
+set BCKDIR="C:\Users\%username%\Documents\lab09\backup"
 cd %BCKDIR%
 
 set _date=%DATE:/=-%
