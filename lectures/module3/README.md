@@ -111,6 +111,11 @@ __module 3: Incident(Disaster) recovery and management__
             * [download](https://www.cgsecurity.org/wiki/TestDisk_Download)
           * [Recover My Files](https://en.wikipedia.org/wiki/Recover_My_Files)
           * [EVTXtract](https://github.com/williballenthin/EVTXtract)
+      * _cases_
+        * [CNIT 152: Incident Response](https://samsclass.info/152/152_Sum18.shtml)
+        * [CNIT 121: Computer Forensics](https://samsclass.info/121/121_F16.shtml)
+        * [Incorporating Disk Forensics with Memory Forensics - Bulk Extractor](https://volatility-labs.blogspot.com/2015/01/incorporating-disk-forensics-with.html)
+        * [The Art of Memory Forensics](https://www.memoryanalysis.net/amf)
     * Password recovery
       * [Password](https://en.wikipedia.org/wiki/Password)
         * [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
