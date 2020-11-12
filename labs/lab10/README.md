@@ -19,7 +19,7 @@ Usually, if the system cant be repaired, use the following best practices:
 **2. Task**
 1. (2%) Download a installation media  of any 64 bit full-fledged Linux operating system installation ISO such as [Lubuntu](https://lubuntu.me/).
 2. (2%) Download [64 bit CloneZilla ISO](https://clonezilla.org/)
-3. (4%) Create a Virtual machine for the chosen operating system with configuration of 2GB RAM/2 X 10GB Hard drives. One hard drive for installing the OS, the other one for disk backup.
+3. (4%) Create a Virtual machine for the chosen operating system with configuration of 2GB RAM/2 X 10GB Hard drives. One hard drive for installing the OS, the other one for disk backup. It is up to you to use VirtualBox or VMWare Workstation Player.
 4. (10%) Install the chosen operating system on the created VM.
 5. (10%) Boot the VM with CloneZilla ISO, backup the OS disk to the backup disk as image file, power off the VM, remove the CloneZilla ISO from the VM optical drive.
 6. (8%) Boot into the VM installed OS, delete some critical files to destroy the OS such that it cannot boot up anymore.
