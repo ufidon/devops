@@ -43,6 +43,7 @@ Write a report about the process you complete the tasks,
 * key screen snapshots are needed as evidences.
 
 **5. Demo video**
+
 There are lots of demo videos on Youtube, *you may find for yourself.*
 
 **6. References**
