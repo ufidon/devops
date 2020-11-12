@@ -23,13 +23,13 @@ Usually, if the system cant be repaired, use the following best practices:
 4. (10%) Install the chosen operating system on the created VM.
 5. (10%) Boot the VM with CloneZilla ISO, backup the OS disk to the backup disk as image file, power off the VM, remove the CloneZilla ISO from the VM optical drive.
 6. (8%) Boot into the VM installed OS, delete some critical files to destroy the OS such that it cannot boot up anymore.
-7. (10%) Restore the OS disk with the backup disk.
+7. (10%) Restore the OS disk with the backup image file.
 8. (2%) Boot into the restored OS to see it is recovered
 9. (2%) Download [Hiren’s BootCD](https://www.hirensbootcd.org/download/)
 10. (30%) Complete the following tasks with tools from Hiren’s BootCD.
     1.  (10%) Boot the VM with Hiren’s BootCD, backup the OS disk to the backup disk as image file.
     2.  (8%) Choose a disk partition tool to repartition and format the OS disk such that it cannot boot up anymore.
-    3.  (10%) Restore the OS disk with the backup disk.
+    3.  (10%) Restore the OS disk with the backup image files.
     4.  (2%) Boot into the restored OS to see it is recovered
 
 **3. (20%) Review questions**
