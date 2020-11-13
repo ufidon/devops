@@ -3,9 +3,60 @@ online materials and references
 
 ## Data carving and recovery
 
+**1. Description**
 
+[Data carving/File carving](https://en.wikipedia.org/wiki/File_carving) is the process of reassembling computer files from fragments in the absence of filesystem metadata. 
 
+This lab is a combination of the following resources:
 
+* [Samsclass project: Photorec](https://samsclass.info/121/proj/p6-photorec.htm)
+  * [NIST Forensic Images for File Carving](https://www.cfreds.nist.gov/FileCarving/index.html)
+  * [DigitalCorpora Disk Images](https://digitalcorpora.org/corpora/disk-images)
+    * [nps-2009-canon2](http://downloads.digitalcorpora.org/corpora/drives/nps-2009-canon2/)
+      * [libewf](https://github.com/libyal/libewf)
+      * [ewfexport](https://linux.die.net/man/1/ewfexport)
+  * [TestDisk & PhotoRec](https://www.cgsecurity.org/wiki/TestDisk_Download)
+* [Samsclass project: Analyzing a RAM Image with Bulk Extractor](https://samsclass.info/121/proj/p4-Bulk.htm)
+  * [p4](https://samsclass.info/121/proj/152p4-Bulk.htm)
+  * [p3](https://samsclass.info/121/proj/p3-Bulk.htm)
+  * [p2](https://samsclass.info/121/proj/p2-RAM-Img.htm)
+  * [Analyzing a RAM Image with Volatility](https://samsclass.info/121/proj/p4-Volatility.htm)
+  * [bulk extractor](https://github.com/simsong/bulk_extractor)
+    * [download](http://downloads.digitalcorpora.org/downloads/)
+    * [Zulu OpenJDK](https://www.azul.com/)
+
+**2. Task**
+* _File carving with PhotoRec_
+  1. (6%, each 2%)Download and install [TestDisk & PhotoRec](https://www.cgsecurity.org/wiki/TestDisk_Download), [meld](https://meldmerge.org/) and [vbindiff](https://www.cjmweb.net/vbindiff/).
+  2. Download the following 5 disk images then recover files from them one by one with PhotoRec. *Except the first one, all others need uncompressing before carving*. Refer to [Samsclass project: Photorec](https://samsclass.info/121/proj/p6-photorec.htm) for a demo. 
+     1. (10%)[Non-fragmented graphics files](https://www.cfreds.nist.gov/FileCarving/Images/L0_Graphic.dd.bz2)
+     2. (10%)[Sequentially fragmented document files](https://www.cfreds.nist.gov/FileCarving/Images/L1_Documents.dd.bz2)
+     3. (10%)[Archive files with missing fragments](https://www.cfreds.nist.gov/FileCarving/Images/L3_Archive.dd.bz2)
+     4. (10%)[Audio files nested in audio files](https://www.cfreds.nist.gov/FileCarving/Images/L4_Audio.dd.bz2)
+     5. (10%)[Braided video files](https://www.cfreds.nist.gov/FileCarving/Images/L5_Video.dd.bz2)
+     6. (24%)To find out how many files are recovered completely/partially/not at all, with comparison tools [meld](https://meldmerge.org/) and [vbindiff](https://www.cjmweb.net/vbindiff/), compare the carved files with the [original files](https://www.cfreds.nist.gov/FileCarving/TestFiles/index.html). Create a table(20%, each image 4%) to summarize the carving results,  (4%) then explain the results.
+* _Information extraction with bulk extractor(Optional)_  
+  1. Download and install [Zulu OpenJDK](https://www.azul.com/) and [bulk extractor](http://downloads.digitalcorpora.org/downloads/)
+  2. Complete one of the following Samsclass projects:
+     * [p4](https://samsclass.info/121/proj/152p4-Bulk.htm)
+     * [p3](https://samsclass.info/121/proj/p3-Bulk.htm)
+     * [p2](https://samsclass.info/121/proj/p2-RAM-Img.htm)
+* _Analyzing a RAM Image with Volatility(Optional)_
+  1. [Analyzing a RAM Image with Volatility](https://samsclass.info/121/proj/p4-Volatility.htm)
+
+**3. (20%) Review questions**
+* (5%) Compare the pros and cons of PhotoRec and Bulk extractor.
+* (5%) What is your plan using PhotoRec for your personal computer disaster recovery?
+* (10%) Design a plan of disaster recovery for a company with PhotoRec and Bulk extractor.
+
+**4. Report**
+
+Write a report about the process you complete the tasks, 
+* key screen snapshots are needed as evidences.
+
+**5. Demo video**
+
+There are lots of demo videos on Youtube, *you may find for yourself.*
 
 **References**
 * [File Carving and Data Recovery](https://linuxhint.com/file_carving_techniques_tools/)
