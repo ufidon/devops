@@ -12,8 +12,8 @@ In some severe incidents, the operating system can not bootup, any backup and re
 * repair the operating system with rescue or system administration/maintenance DVD/USB
 * restore the operating system with backup images by the backup/restore live DVD/USB
   
-Usually, if the system cant be repaired, use the following best practices:
-* image the corrupted disk, then use data recovery techniques to recover data as much as possible. How to recover data will be practiced in the *data recovery lab*.
+Usually, if the system cannot be repaired, use the following best practices:
+* image the corrupted disk, then use data recovery techniques to recover data as much as possible. How to recover data will be practiced in the *data carving and recovery lab*.
 * reinstall or restore the operating system
 
 **2. Task**
