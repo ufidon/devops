@@ -13,9 +13,9 @@ Password recovery can be exploited to
 
 However, in many cases especially the cost for cracking a password is too high, password clear could be the only feasible method.
 
-**2. Task**
-1. (30%) If you don't have a Windows 10 or Windows server 2019 virtual machine, then create one. In the VM, create a test account with a login password. Now suppose the test account forgot his/her login password, referring this [demo](https://www.howtogeek.com/222262/how-to-reset-your-forgotten-password-in-windows-10/) or this [demo](https://www.howtogeek.com/howto/14369/change-or-reset-windows-password-from-a-ubuntu-live-cd/) to reset his/her password.
-2. (50%) Assume the test account has encrypted some important documents with his/her login password. In this case, the login password must be recovered instead of reset/cleared. Refer to this [demo](https://samsclass.info/123/proj14/123p12winhash.htm) or this [demo](https://www.howtogeek.com/howto/29694/how-to-crack-your-forgotten-windows-password/) to recover/crack the login password for the test account. To simplify this task, you may set a simple password for this test account.
+**2. Tasks**
+1. (30%) If you don't have a Windows 10 or Windows server 2019 virtual machine, then create one. In the VM, create a test account with a login password. Now suppose the test account forgot his/her login password, referring this [demo](https://www.howtogeek.com/222262/how-to-reset-your-forgotten-password-in-windows-10/) or this [demo](https://www.howtogeek.com/howto/14369/change-or-reset-windows-password-from-a-ubuntu-live-cd/) to reset his/her password with a system installation/maintenance/rescue DVD(iso).
+2. (50%) Assume the test account has encrypted some important documents with his/her login password. In this case, the login password must be recovered instead of reset/cleared. Refer to this [demo](https://samsclass.info/123/proj14/123p12winhash.htm) or this [demo](https://www.howtogeek.com/howto/29694/how-to-crack-your-forgotten-windows-password/) to recover/crack the login password for the test account with a password cracker. To simplify this task, you may set a simple password for this test account.
 
 **3. (20%) Review questions**
 * (5%) Compare the pros and cons of  clearing passwords with system maintenance/rescue DVD and cracking passwords with password cracker.
