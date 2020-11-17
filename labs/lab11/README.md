@@ -33,7 +33,7 @@ This lab is a combination of the following resources:
      2. (10%) L1_Graphic.dd with sequentially fragmented graphics files 
      3. (20%) To find out how many files are recovered completely/partially/not at all, with comparison tools [meld](https://meldmerge.org/) and [vbindiff](https://www.cjmweb.net/vbindiff/), compare the carved files with the [original files](https://www.cfreds.nist.gov/FileCarving/TestFiles/index.html). Create a table to summarize the carving results, then explain the results.
 * _Information extraction with bulk extractor(Optional)_  
-  1. (4%, each 2%) Download and install [Zulu OpenJDK 8](https://www.azul.com/) and [bulk extractor](http://downloads.digitalcorpora.org/downloads/)
+  1. (4%, each 2%) Download and install [Zulu OpenJDK 8 or 11](https://www.azul.com/) and [bulk extractor](http://downloads.digitalcorpora.org/downloads/)
   2. Complete the following tasks with bulk extractor. Refer to [p3](https://samsclass.info/121/proj/p3-Bulk.htm) for a demo.:
      1. (15%) Download this [RAM image](https://samsclass.info/121/proj/memdump.7z) then analyze it, find all credit card numbers beginning with 3728
      2. (15%) Download this [RAM image](https://samsclass.info/152/proj/memdump2016.mem.zip) then analyze it, find all email addresses @wazuh.com
