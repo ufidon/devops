@@ -26,18 +26,18 @@ This lab is a combination of the following resources:
     * [Zulu OpenJDK](https://www.azul.com/)
 
 **2. Task**
-* _File carving with PhotoRec_
+1. _File carving with PhotoRec_
   1. (6%, each 2%)Download and install [TestDisk & PhotoRec](https://www.cgsecurity.org/wiki/TestDisk_Download), [meld](https://meldmerge.org/) and [vbindiff](https://www.cjmweb.net/vbindiff/).
   2. Download the specified disk images from [Forensic Images for File Carving](https://www.cfreds.nist.gov/FileCarving/index.html) then recover files from them one by one with PhotoRec. Refer to [Samsclass project: Photorec](https://samsclass.info/121/proj/p6-photorec.htm) for a demo. 
      1. (10%) L0_Graphic.dd with non-fragmented graphics files.
      2. (10%) L1_Graphic.dd with sequentially fragmented graphics files 
      3. (20%) To find out how many files are recovered completely/partially/not at all, with comparison tools [meld](https://meldmerge.org/) and [vbindiff](https://www.cjmweb.net/vbindiff/), compare the carved files with the [original files](https://www.cfreds.nist.gov/FileCarving/TestFiles/index.html). Create a table to summarize the carving results, then explain the results.
-* _Information extraction with bulk extractor(Optional)_  
+2. _Information extraction with bulk extractor_  
   1. (4%, each 2%) Download and install [Zulu OpenJDK 8 or 11](https://www.azul.com/) and [bulk extractor](http://downloads.digitalcorpora.org/downloads/)
   2. Complete the following tasks with bulk extractor. Refer to [p3](https://samsclass.info/121/proj/p3-Bulk.htm) for a demo.:
      1. (15%) Download this [RAM image](https://samsclass.info/121/proj/memdump.7z) then analyze it, find all credit card numbers beginning with 3728
      2. (15%) Download this [RAM image](https://samsclass.info/152/proj/memdump2016.mem.zip) then analyze it, find all email addresses @wazuh.com
-* _Analyzing a RAM Image with Volatility(Optional)_
+3. _Analyzing a RAM Image with Volatility(Optional)_
   1. [Analyzing a RAM Image with Volatility](https://samsclass.info/121/proj/p4-Volatility.htm)
 
 **3. (20%) Review questions**
@@ -53,6 +53,10 @@ Write a report about the process you complete the tasks,
 **5. Demo video**
 
 There are lots of demo videos on Youtube, *you may find for yourself.*
+
+Hint video is provided:
+
+* [Data carving and recovery](https://youtu.be/J6yzF2Dmbkc)
 
 **References**
 * [File Carving and Data Recovery](https://linuxhint.com/file_carving_techniques_tools/)
