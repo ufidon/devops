@@ -35,8 +35,8 @@ This lab is a combination of the following resources:
 2. _Information extraction with bulk extractor_  
    1. (4%, each 2%) Download and install [Zulu OpenJDK 8 or 11](https://www.azul.com/) and [bulk extractor](http://downloads.digitalcorpora.org/downloads/)
    2. Complete the following tasks with bulk extractor. Refer to [p3](https://samsclass.info/121/proj/p3-Bulk.htm) for a demo.:
-       1. (15%) Download this [RAM image](https://samsclass.info/121/proj/memdump.7z) then analyze it, find all credit card numbers beginning with 3728
-       2. (15%) Download this [RAM image](https://samsclass.info/152/proj/memdump2016.mem.zip) then analyze it, find all email addresses @wazuh.com
+       1. (15%) Download this [RAM image](https://samsclass.info/121/proj/memdump.7z) then analyze it, find all credit card numbers beginning with 3728 (answer: 372845049269259)
+       2. (15%) Download this [RAM image](https://samsclass.info/152/proj/memdump2016.mem.zip) then analyze it, find all email addresses @wazuh.com (answer: contact@wazuh.com, ntact@wazuh.com)
 3. _Analyzing a RAM Image with Volatility(Optional)_
    1. [Analyzing a RAM Image with Volatility](https://samsclass.info/121/proj/p4-Volatility.htm)
 
@@ -52,11 +52,8 @@ Write a report about the process you complete the tasks,
 
 **5. Demo video**
 
-There are lots of demo videos on Youtube, *you may find for yourself.*
-
-Hint video is provided:
-
-* [Data carving and recovery](https://youtu.be/J6yzF2Dmbkc)
+* [Demo video: Data carving and recovery](https://youtu.be/KyWBvXrowa8)
+* [Hint video: Data carving and recovery](https://youtu.be/J6yzF2Dmbkc)
 
 **References**
 * [File Carving and Data Recovery](https://linuxhint.com/file_carving_techniques_tools/)
