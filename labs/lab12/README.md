@@ -14,7 +14,7 @@ Password recovery can be exploited to
 However, in many cases especially the cost for cracking a password is too high, password reset could be the only feasible method.
 
 **2. Tasks**
-1. *Password reset* (30%): If you don't have a Windows 10 or Windows server 2019 virtual machine, then create one. In the VM, create a test account with a login password. Now suppose the test account forgot his/her login password, referring this [demo](https://www.howtogeek.com/222262/how-to-reset-your-forgotten-password-in-windows-10/) or this [demo](https://www.howtogeek.com/howto/14369/change-or-reset-windows-password-from-a-ubuntu-live-cd/) to reset his/her password with a system installation/maintenance/rescue DVD(iso).
+1. *Password reset* (30%): If you don't have a Windows 10 or Windows server 2019 virtual machine, then create one. In the VM, create a test account with a login password following this [demo](https://www.server-world.info/en/note?os=Windows_Server_2019&p=initial_conf&f=1) or [this](https://www.groovypost.com/howto/create-local-account-windows-10/). Now suppose the test account forgot his/her login password, referring this [demo](https://www.howtogeek.com/222262/how-to-reset-your-forgotten-password-in-windows-10/) or this [demo](https://www.howtogeek.com/howto/14369/change-or-reset-windows-password-from-a-ubuntu-live-cd/) to reset his/her password with a system installation/maintenance/rescue DVD(iso).
 2. *Password crack* (50%): Assume the test account has encrypted some important documents with his/her login password. In this case, the login password must be recovered instead of reset/reseted. Refer to this [demo](https://samsclass.info/123/proj14/123p12winhash.htm) or this [demo](https://www.top-password.com/blog/crack-windows-password-with-john-the-ripper/) to recover/crack the login password for the test account with a password cracker. To simplify this task, you may set a simple password for this test account.
 
 **3. (20%) Review questions**
@@ -33,6 +33,7 @@ There are lots of demo videos on Youtube, *you may find for yourself.*
 A hint video is provided.
 * [Password reset and recovery](https://youtu.be/i0Ht5V4-OPY)
 
+* Password for the tools.7z is P@ssw0rd
 
 **References**
 * [How to Reset Your Forgotten Password in Windows 10?](https://www.howtogeek.com/222262/how-to-reset-your-forgotten-password-in-windows-10/)
@@ -46,9 +47,13 @@ A hint video is provided.
   * [Cain and Abel (software)](https://en.wikipedia.org/wiki/Cain_and_Abel_(software))
   * [Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis)
 * [Crack me if you can](http://contest-2010.korelogic.com/)
+* [Windows login password hashes](https://www.insecurity.be/blog/2018/01/21/retrieving-ntlm-hashes-and-what-changed-technical-writeup/)
+  * [Introduction to Hashing and how to retrieve Windows 10 password hashes](https://medium.com/@anunayb007/introduction-to-hashing-and-how-to-retrieve-windows-10-password-hashes-9c8637decaef)
 * [10 Most Popular Password Cracking Tools](https://resources.infosecinstitute.com/topic/10-popular-password-cracking-tools/)
   * [3 Ways to Crack Windows 10 Password without Losing Data](https://www.bestwindowspasswordreset.com/crack-windows-10-password.html)
   * [John the Ripper step-by-step tutorials](https://openwall.info/wiki/john/tutorials)
     * [John the Ripper password cracker](https://www.openwall.com/john/)
     * [Johnny - GUI for John the Ripper](https://openwall.info/wiki/john/johnny)
   * [Use John the Ripper in Metasploit to Quickly Crack Windows Hashes](https://null-byte.wonderhowto.com/how-to/use-john-ripper-metasploit-quickly-crack-windows-hashes-0200322/)
+* [Popular password](https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials)
+  * [Rockyou.txt](https://www.kaggle.com/wjburns/common-password-list-rockyoutxt)
