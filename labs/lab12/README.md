@@ -28,10 +28,8 @@ Write a report about the process you complete the tasks,
 * key screen snapshots are needed as evidences.
 
 **5. Demo video**
-
-There are lots of demo videos on Youtube, *you may find for yourself.*
-A hint video is provided.
-* [Password reset and recovery](https://youtu.be/i0Ht5V4-OPY)
+* [Demo video: Windows Server 2019 and Windows 10 Password Reset and Recovery](https://youtu.be/FeQhOkoLr6g)
+* [Hint video: Password reset and recovery](https://youtu.be/i0Ht5V4-OPY)
 
 * Password for the tools.7z is P@ssw0rd
 
