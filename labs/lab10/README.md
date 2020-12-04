@@ -21,9 +21,9 @@ Usually, if the system cannot be repaired, use the following best practices:
 2. (2%) Download [64 bit CloneZilla ISO](https://clonezilla.org/)
 3. (4%) Create a Virtual machine for the chosen operating system with configuration of 2GB RAM/2 X 10GB Hard drives. One hard drive for installing the OS, the other one for disk backup. It is up to you to use VirtualBox or VMWare Workstation Player.
 4. (10%) Install the chosen operating system on the created VM.
-5. (10%) Boot the VM with CloneZilla ISO, backup the OS disk to the backup disk as image file, power off the VM, remove the CloneZilla ISO from the VM optical drive.
+5. (10%) Boot the VM with CloneZilla ISO, backup the OS disk to the backup disk as image file following [save disk image](https://clonezilla.org/show-live-doc-content.php?topic=clonezilla-live/doc/01_Save_disk_image), power off the VM, remove the CloneZilla ISO from the VM optical drive.
 6. (8%) Boot into the VM installed OS, delete some critical files to destroy the OS such that it cannot boot up anymore.
-7. (10%) Restore the OS disk with the backup image file.
+7. (10%) Restore the OS disk with the backup image file following [restore disk image](https://clonezilla.org/show-live-doc-content.php?topic=clonezilla-live/doc/02_Restore_disk_image).
 8. (2%) Boot into the restored OS to see it is recovered
 9. (2%) Download [Hiren’s BootCD](https://www.hirensbootcd.org/download/)
 10. (30%) Complete the following tasks with tools from Hiren’s BootCD.
@@ -44,7 +44,7 @@ Write a report about the process you complete the tasks,
 
 **5. Demo video**
 
-There are lots of demo videos on Youtube, *you may find for yourself.*
+* [System Backup and Restore With LiveCD](https://youtu.be/WcY0Y32O4dY)
 
 **6. References**
 * Light weight open source operating systems
